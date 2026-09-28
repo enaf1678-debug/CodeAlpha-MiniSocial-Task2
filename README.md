@@ -10,8 +10,11 @@ A full-stack mini social media app built with:
 ## Features
 
 - User registration and login
+- JWT-based authentication
+- Password hashing with bcrypt
 - User profiles
-- Create posts
+- Create text and image posts
+- Image upload
 - Delete own posts
 - Like/unlike posts
 - Comments
